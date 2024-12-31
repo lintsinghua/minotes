@@ -1,0 +1,4 @@
+#Wed Jan 01 00:04:27 CST 2025
+base.0=C\:\\Users\\lenovo\\Desktop\\Notes\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
